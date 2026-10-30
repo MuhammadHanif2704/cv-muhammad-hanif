@@ -1,7 +1,5 @@
 # Muhammad Hanif
 
-**Fresh Graduate S1 Sistem Informasi | Software Developer (Web & Mobile)**
-
 📄 **[Lihat / Unduh CV](CV_Fresh%20Graduate.pdf)**
 
 ---
