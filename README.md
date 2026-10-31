@@ -12,15 +12,15 @@ Lulusan S1 Sistem Informasi dengan pengalaman mengembangkan aplikasi web dan mob
 
 | Institusi | Program | Periode |
 |---|---|---|
-| Universitas Bina Sarana Informatika | S1 Sistem Informasi | 2022 – 2026 |
+| Universitas Bina Sarana Informatika | S1 Sistem Informasi (IPK 3,92 / 4,00) | 2022 – 2026 |
 | MAN 2 Kota Bekasi | Jurusan IPS | 2019 – 2022 |
 
 ## Pengalaman Kerja
 
 **Software Developer Intern — PT. Gema Cipta Asia** (10 Sep – 10 Des 2025)
-- Mengembangkan aplikasi kurir berbasis mobile menggunakan Flutter dan Dart.
-- Mengintegrasikan REST API dengan aplikasi Flutter untuk pertukaran data dengan backend.
-- Mendesain antarmuka pengguna (UI) aplikasi kurir menggunakan Figma.
+- Mendesain antarmuka pengguna (UI) aplikasi kurir menggunakan Figma dengan mempertimbangkan kebutuhan dan alur penggunaan aplikasi.
+- Mengimplementasikan desain Figma ke dalam kode Flutter dan Dart, mencakup fitur Dashboard, Shipment, Manifest, Proof of Delivery, dan scan barcode/AWB untuk mendukung operasional pengiriman.
+- Mengintegrasikan REST API dengan aplikasi Flutter untuk menghubungkan aplikasi dengan layanan backend dan mengelola pertukaran data.
 
 ## Proyek
 
